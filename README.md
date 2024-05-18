@@ -8,7 +8,7 @@
 
 3. Folder of Resources containing a json file of establishments.json
 
-Instructions
+# Instructions
 
 Part 1: Database and Jupyter Notebook Set Up
 
